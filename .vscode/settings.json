@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "skip_list.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c"
+    }
+}
